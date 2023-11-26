@@ -1,22 +1,7 @@
 ![](https://i.ibb.co/RNZ4F0h/293011040-106749442105225-7696087292675351238-n-removebg-preview.png)
 
-## visual studio &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - □ x
- #### | file | edit | view | git | project | build | debug | test | analyze | tools | extensions | workflow | help |
-
-```
-using System;
-
-namespace RF246
-{
-  class Program
-  {
-    static void Main(string[] args)
-    {
-      Console.Title = "rf246";
-      Console.WriteLine("hi, my name's rf246. you can just call me rf if you'd like.");
-      Console.WriteLine("i code stuff in c#.")
-    }
-  }
-}
-
-```
+## rf246
+hi there, i'm rf246.
+i'm a professional idiot and a programmer who codes in c#.
+## github stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RF246)](https://github.com/anuraghazra/github-readme-stats)
