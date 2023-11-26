@@ -1,4 +1,4 @@
-![](https://i.ibb.co/RNZ4F0h/293011040-106749442105225-7696087292675351238-n-removebg-preview.png)
+![](https://raw.githubusercontent.com/RF246/RF246/main/banner.png)
 
 ## RF246
 Hi there! I'm RF246.</br>
