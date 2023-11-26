@@ -12,9 +12,11 @@ namespace RF246
   {
     static void Main(string[] args)
     {
+      Console.Title = "rf246";
       Console.WriteLine("hi, my name's rf246. you can just call me rf if you'd like.");
-      Console.WriteLine("i code stuff in c#, as you can see.")
+      Console.WriteLine("i code stuff in c#.")
     }
   }
 }
+
 ```
