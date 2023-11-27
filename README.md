@@ -1,7 +1,7 @@
 ![](https://raw.githubusercontent.com/RF246/RF246/main/banner.png)
 # Hello!
 Hi there! I'm RF246.</br>
-I code in C# mostly but occasionally I use other programming languages.
+I code in C# mostly but occasionally I code other programming languages.
 # Contact
 Use these if you need to contact me.</br>
 Discord: rf246
