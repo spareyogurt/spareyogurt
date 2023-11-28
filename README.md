@@ -1,6 +1,7 @@
-<p> align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/RF246/RF246/main/banner.png" />
 </p>
+
 # Hello!
 Hi there! I'm RF246.</br>
 I code in C# mostly but occasionally I code using other programming languages.
