@@ -1,5 +1,4 @@
-
-<p align="right">
+<p> align="center">
   <img src="https://raw.githubusercontent.com/RF246/RF246/main/banner.png" />
 </p>
 # Hello!
