@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RF246/RF246/main/banner.png" style="max-width: 80%;"/>
+  <img src="https://raw.githubusercontent.com/RF246/RF246/main/banner.png" style="max-width: 60%;"/>
 </p>
 
 # Hello!
