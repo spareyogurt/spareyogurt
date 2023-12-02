@@ -3,7 +3,7 @@
 </p>
 
 # Hello!
-Hi there! I'm RF246.</br>
+Hi there! I'm James.</br>
 I code in C# mostly but occasionally I code using other programming languages.
 # Contact
 Use these if you need to contact me.</br>
