@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RF246/RF246/main/banner.png" style="width: 80%;"/>
+  <img src="https://raw.githubusercontent.com/spareyogurt/spareyogurt/main/banner.png" style="width: 80%;"/>
 </p>
 
 # Hello!
@@ -13,5 +13,5 @@ Discord: spareyogurt
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RF246&layout=pie&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 # 
 <p align="right">
-  <img src="https://raw.githubusercontent.com/RF246/RF246/main/sit.png" />
+  <img src="https://raw.githubusercontent.com/spareyogurt/spareyogurt/main/sit.png" />
 </p>
