@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/spareyogurt/spareyogurt/main/banner.png" style="width: 80%;"/>
+  <img src="https://raw.githubusercontent.com/spareyogurt/spareyogurt/main/banner.png">
 </p>
 
 # Hello!
@@ -14,5 +14,5 @@ If these don't load, do `Ctrl` + `R` or whatever you use on Mac to reload your p
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spareyogurt&layout=pie&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 #
 <p align="right">
-  <img src="https://raw.githubusercontent.com/spareyogurt/spareyogurt/main/sit.png" />
+  <img src="https://raw.githubusercontent.com/spareyogurt/spareyogurt/main/sit.png">
 </p>
