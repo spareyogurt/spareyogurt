@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/spareyogurt/spareyogurt/main/banner.png">
+  <img src="https://raw.githubusercontent.com/spareyogurt/spareyogurt/main/banner.png" width="90%" >
 </p>
 
 # Hello!
